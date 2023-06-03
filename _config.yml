@@ -21,9 +21,7 @@
 title: Jessica L. Newman
 email: jessicalnewman2001@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Description test. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat dui vitae tincidunt egestas. Proin tempor lectus mauris, a venenatis magna luctus eget. Vivamus facilisis enim vel imperdiet suscipit. Pellentesque cursus nibh quis augue consequat, quis sollicitudin erat auctor. Curabitur ornare, sapien vestibulum dapibus bibendum, nulla dolor semper justo, tincidunt mattis tortor ipsum convallis dui. Donec sit amet fringilla est, id luctus neque. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
