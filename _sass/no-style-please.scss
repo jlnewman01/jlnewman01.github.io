@@ -96,3 +96,13 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+a {
+  color: #ED333B; /*#12CCC4; /* Or your preferred hex code */
+  text-decoration: underline;
+
+    &:visited {
+        color: #E59797;    
+    }
+}
+

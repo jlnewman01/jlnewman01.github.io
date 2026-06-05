@@ -2,12 +2,22 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+  - title: about
+    entries:
+        - title: Jessica L. Newman is a PhD student at the University of Southampton.
+        - title: Research interests
+          entries:
+            - title: Strategic Reasoning
+            - title: Logic
+            - title: Game Theory
   - title: info
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: email
+        url: mailto:jln1g19@soton.ac.uk
+      - title: ORCID
+        url: https://orcid.org/0009-0009-8400-0609
+      - title: linkedin
+        url: https://uk.linkedin.com/in/jessica-newman-b7a182207
 
   - title: all posts
     post_list:
