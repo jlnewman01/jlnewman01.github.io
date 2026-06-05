@@ -4,7 +4,7 @@
 entries:
   - title: about
     entries:
-        - title: Jessica L. Newman is a PhD student at the University of Southampton.
+        - title: Jessica L. Newman is a PhD student in Computer Science at the University of Southampton.
         - title: Research interests
           entries:
             - title: Strategic Reasoning
@@ -19,30 +19,38 @@ entries:
       - title: linkedin
         url: https://uk.linkedin.com/in/jessica-newman-b7a182207
 
-  - title: all posts
+  - title: recent publications
+    post_list:
+        limit: 5
+        show_more: true
+        show_more_text: See all...
+        show_more_url: pubs.html
+
+  - title: blog posts
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+#  - title: posts by category
+#    post_list:
+#      category: example2
+#      show_more: true
+#      show_more_text: See more posts...
+#      show_more_url: example2-archive.html
 
-  - title: rss
-    url: feed.xml
+#  - title: rss
+#    url: feed.xml
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+#  - title: another list
+#    entries:
+#      - title: with subitems
+#        entries:
+#          - title: with subsubitems
+#          - title: example page
+#            url: about
+#  - title: PRO TIP
+#    entries:
+#      - title: to edit this menu, edit _data/menu.yml file
+
