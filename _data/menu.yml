@@ -18,6 +18,10 @@ entries:
         url: https://orcid.org/0009-0009-8400-0609
       - title: linkedin
         url: https://uk.linkedin.com/in/jessica-newman-b7a182207
+      - title: google scholar
+        url: https://scholar.google.com/citations?user=4KHdtT4AAAAJ&hl=en
+      - title: my face
+        url: me.html
 
   - title: recent publications
     post_list:
