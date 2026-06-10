@@ -23,12 +23,8 @@ entries:
       - title: my face
         url: me.html
 
-  - title: recent publications
-    post_list:
-        limit: 5
-        show_more: true
-        show_more_text: See all...
-        show_more_url: pubs.html
+  - title: list of publications
+    url: pubs.html
 
   - title: blog posts
     post_list:

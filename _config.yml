@@ -20,8 +20,8 @@
 
 title: Jessica L. Newman's Rhizhomepage
 email: jln1g19@soton.ac.uk
-description: >- # this means to ignore newlines until "baseurl:"
-  Rhizhomepage
+description:  #>- # this means to ignore newlines until "baseurl:"
+  #Rhizhomepage
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
