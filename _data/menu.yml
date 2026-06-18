@@ -12,8 +12,8 @@ entries:
             - title: Game Theory
   - title: info
     entries:
-      - title: email
-        url: mailto:jln1g19@soton.ac.uk
+      - title: email (jln1g19 at soton.ac.uk)
+#        url: mailto:jln1g19@soton.ac.uk
       - title: ORCID
         url: https://orcid.org/0009-0009-8400-0609
       - title: linkedin
